@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpaceArtApp</string>
+
+    <string name="picture_name_1">The painting has been definitively identified to depict Italian noblewoman Lisa Gherardini, the wife of Francesco del Giocondo. It is painted in oil on a white Lombardy poplar panel.</string>
+    <string name="picture_author_1">Leonardo da Vinci</string>
+
+
+    <string name="picture_name_4">The elegantly dressed couple are thought to be Giovanni di Nicolao di Arnolfini, and his wife, Costanza Trenta, wealthy Italians living in Bruges.</string>
+    <string name="picture_author_4">Jan van Eyck</string>
+
+    <string name="picture_name_2">It depicts Ophelia, a character from William Shakespeare play Hamlet, singing before she drowns in a river.</string>
+    <string name="picture_author_2">John Everett Millais</string>
+
+    <string name="picture_name_3">grandson of Kang Se Hwan, Kang Yo</string>
+    <string name="picture_author_3">Yi Jaegwan</string>
+
+    <string name="picture_name_5">The artist sets up a scene of abstraction, then adorns it with everyday objects such as boats, shoes and keys to connect and hang with the threads.</string>
+    <string name="picture_author_5">Chiharu Shiota</string>
+
+</resources>
